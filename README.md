@@ -12,9 +12,9 @@
 - [] 9_classification
 - [] 10_salary
 - [] 11_djia
-
-## ToDo
 - [] 12_abalone
 - [] 13_gbm
 - [] 14_parrot
+
+## ToDo
 - [] 15_final
